@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 428b7bf19740b6841a23131db3bc5b7e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - audioSource: {instanceID: 0}
+  - bubblePopSound: {fileID: 8300000, guid: 35c167118787c9e4bb6399f067485333, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
